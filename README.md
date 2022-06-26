@@ -76,4 +76,4 @@ Temas:
 - :globe_with_meridians: Documentacion swagger:
 [swagger](https://swagger.io/)
 - :globe_with_meridians: Miro:
-[swagger](https://miro.com/es/)# content-main
+[miro](https://miro.com/es/)
