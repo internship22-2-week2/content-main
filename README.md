@@ -8,8 +8,7 @@
 
 Temas:
 - nodejs-esencial.
-- 
-- Presentacion de proyecto
+- POO
 
 :chart_with_upwards_trend: Enlace presentacion y actividades.
 [Contenido](https://github.com/contents-pasantia/content6)
